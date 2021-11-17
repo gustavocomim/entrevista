@@ -1,10 +1,10 @@
-# 📰 Projeto Entrevista
+# 👩‍💻 Projeto Entrevista
 
 Este projeto destina-se a entrevistar os candidatos a vaga de desenvolvedor de software na empresa EVUP.
 
 ## Instruções
 
-### 1 Pré-requisitos
+### 1 📋 Pré-requisitos
 
 Antes de começar, certifique-se de que tenha instalado os programas a seguir:
 
@@ -12,7 +12,7 @@ Antes de começar, certifique-se de que tenha instalado os programas a seguir:
 
 1.2- Visual Studio (2019 ou superior): https://visualstudio.microsoft.com/pt-br/downloads/
 
-### 2 Baixando o código fonte
+### 2 ⚙ Baixando o código fonte
 
 2.1- Crie uma pasta no seu computador onde o código fonte será baixado (ex. C:/EVUP);
 
@@ -22,7 +22,8 @@ git clone https://github.com/evuptech/entrevista.git
 ```
 
 O resultado deverá ser algo parecido com este:
-![image](https://user-images.githubusercontent.com/94454745/142243569-23a8fdb9-b285-4ef2-951f-ab717d532924.png)
+
+![image](https://user-images.githubusercontent.com/94454745/142252376-995954d9-6bd5-4c71-a9fd-0fce99e6cbf9.png)
 
 2.3- navegue na pasta "./entrevista" (que acabou de ser criada pelo comando acima) e crie um novo branch com seu nome:
 ```
@@ -39,6 +40,11 @@ git checkout candidato/seu-nome
 git push --set-upstream origin candidato/seu-nome
 ```
 
+O resultado deverá ser algo parecido com este:
+
+![image](https://user-images.githubusercontent.com/94454745/142252583-01af8fc3-eb4d-4a4d-9ad5-45e681f81a4a.png)
+
+
 2.4- Após baixar o projeto, abra a solution no Visual Studio que fica no caminho: "./entrevista/Projeto/Projeto.sln".
 
 ![image](https://user-images.githubusercontent.com/94454745/142243975-8056f9f2-9e16-40a9-8fdc-b149cb3f17d5.png)
@@ -53,7 +59,7 @@ O resultado esperado é o projeto rodando:
 
 Na tela acima, informe o usuário e senha (admin/admin) para entrar e ter acesso a lista de tarefas do teste.
 
-### 3 Entregando o teste
+### 3 ✅ Entregando o teste
 
 Ao final do teste, quando terminar de programar, faça o commit de todas as suas alterações (pode usar o Visual Studio ou por linha de comando, conforme a seguir):
 
@@ -77,4 +83,5 @@ git push
 ```
 
 O resultado esperado de todos os comando acima:
-![image](https://user-images.githubusercontent.com/94454745/142246581-c88af377-ff75-42a5-b940-764a953b3032.png)
+
+![image](https://user-images.githubusercontent.com/94454745/142252906-54b934b5-2035-412d-9140-916d8eedfbc6.png)
