@@ -90,7 +90,7 @@ namespace Projeto.Pages
                         new Cliente() { Nome = "Guilmar Moreira", Email = "joaquimguilmar.moreira@evup.com.br", DataNascimento = new DateTime(1994, 05, 05) },
                         new Cliente() { Nome = "Robson Silvano", Email = "robson.silvano@evup.com.br", DataNascimento = new DateTime(2000, 05, 10) },
                         new Cliente() { Nome = "Anderson da Silva", Email = "anderson.silva@evup.com.br", DataNascimento = new DateTime(2001, 08, 17) },
-                        new Cliente() { Nome = "Elaine Juscen", Email = "elaine.juscen@evup.com.br", DataNascimento = new DateTime(2001, 11, 21) },
+                        new Cliente() { Nome = "Elaine Juscen", Email = "elaine.juscen@evup.com.br", DataNascimento = new DateTime(2001, 10, 21) },
                         new Cliente() { Nome = "Beatriz Filippa", Email = "beatriz.filippa@evup.com.br", DataNascimento = new DateTime(2002, 01, 11) },
                         new Cliente() { Nome = "Dorotti Galvão", Email = "dorotti.galvao@evup.com.br", DataNascimento = new DateTime(2002, 02, 01) },
                     });
