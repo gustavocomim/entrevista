@@ -1,0 +1,33 @@
+﻿@page
+@model Projeto.Pages.Clientes.IndexModel
+@{
+}
+
+<h1>👨‍👨‍👦 Cadastro de Clientes</h1>
+
+<div>
+    
+
+    <table class="table">
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model.Clientes)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">✏</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">❌</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
