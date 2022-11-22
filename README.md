@@ -69,10 +69,10 @@ git commit -m "Entregando o teste"
 Agora, para entregar seu código fonte para ser analisado, envie os arquivos compactados para o analista da entrevista.
 
 
-#### 3.5🗜️ Enviando a pasta do projeto compactada como zip
+#### 3.4🗜️ Enviando a pasta do projeto compactada como zip
 
-3.5.1- Compacte a pasta ./entrevista com todos os arquivos dentro (pode usar a extensão .zip ou .rar)
+3.4.1- Compacte a pasta ./entrevista com todos os arquivos dentro (pode usar a extensão .zip ou .rar)
 
-3.5.2- Envie o arquivo compactado para a mesma pessoa que te entregou o link deste repositório.
+3.4.2- Envie o arquivo compactado para a mesma pessoa que te entregou o link deste repositório.
 
 FIM
